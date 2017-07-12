@@ -1,7 +1,7 @@
 'use strict';
 
-var expect  = require('chai').expect;
 var Angular = require('angular');
+var expect  = require('chai').expect;
 var Sinon   = require('sinon');
 
 require('angular-mocks');
